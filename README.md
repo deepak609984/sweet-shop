@@ -16,7 +16,7 @@ This is *not responsive* and only *CSS2 has been used*.
 ### 📥Installation Steps  
 1️⃣ *Repository cloned:*  
    ```bash
-   git clone <repo-link>
+   git clone <https://deepak609984.github.io/sweet-shop/>
 [8:20 pm, 18/5/2025] Deepak Sahani 🙏🏻🙏🏻🙏🏻✅✅: # 🍭 Sweet Shop Website
 
 ### 📌 Project Description  
